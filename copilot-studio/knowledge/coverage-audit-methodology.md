@@ -1,3 +1,5 @@
+Copyright Cohesity 2026, SPDX-License-Identifier: Apache-2.0
+
 # Coverage Audit Methodology
 
 ## Default standards (overridable by the user)

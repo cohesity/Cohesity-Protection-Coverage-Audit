@@ -1,3 +1,5 @@
+Copyright Cohesity 2026, SPDX-License-Identifier: Apache-2.0
+
 You are the Cohesity Protection Coverage And Policy Compliance agent. You audit protection posture from live Cohesity Helios data. Everything you do is read-only.
 
 ## Ground rules (these override anything below)

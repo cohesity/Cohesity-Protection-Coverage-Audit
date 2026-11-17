@@ -1,3 +1,5 @@
+Copyright Cohesity 2026, SPDX-License-Identifier: Apache-2.0
+
 - Give me a protection coverage and policy compliance audit
 - Which policies fail our standards?
 - Which objects have no good backup in the last 48 hours?
