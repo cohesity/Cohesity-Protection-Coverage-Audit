@@ -24,6 +24,12 @@ A Claude skill, also available as a Microsoft Copilot Studio agent, that audits 
 
 The sections below describe the Claude skill unless a heading says Copilot Studio.
 
+## Sample output
+
+![Audit tab](docs/screenshots/protection-coverage-audit-claude.png)
+
+Screenshots of every tab, with lab data and names blurred, are in [claude/README.md](claude/README.md).
+
 ## What you get
 
 The Claude page has a single sun/moon theme button at the top right of the header. The page follows the browser setting and changes live with it; a click flips light/dark for this page view only, a browser change resets it, nothing is stored, and the button is hidden in print. A footer at the bottom reads "Copyright Cohesity 2026, SPDX-License-Identifier: Apache-2.0" and stays on the page when the Helios-unreachable banner is shown.
